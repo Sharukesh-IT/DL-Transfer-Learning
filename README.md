@@ -284,7 +284,8 @@ predict_image(model, image_index=25, dataset=test_dataset)
 <img width="459" height="905" alt="image" src="https://github.com/user-attachments/assets/0b47ae9b-b040-4af6-b62d-e7a20259f26a" />
 
 ## Training Loss, Validation Loss Vs Iteration Plot
-<img width="663" height="704" alt="image" src="https://github.com/user-attachments/assets/f50ba755-ab57-4910-b306-ae2b4e06b942" />
+<img width="1057" height="644" alt="Screenshot 2026-05-14 194652" src="https://github.com/user-attachments/assets/87270538-b2ff-4ea9-89ee-f03dccfedebe" />
+
 
 ## Confusion Matrix
 <img width="859" height="722" alt="Screenshot 2026-05-14 194702" src="https://github.com/user-attachments/assets/5e2245e7-0e1b-409e-af96-aa315d11faa7" />
